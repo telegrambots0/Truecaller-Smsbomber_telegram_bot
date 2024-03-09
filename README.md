@@ -44,3 +44,6 @@ To get you bot Api Key
 
 #### Note : This version has a database table to store numbers in sha256 for privacy and security.
 
+
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telegrambots0/Truecaller-Smsbomber_telegram_bot)

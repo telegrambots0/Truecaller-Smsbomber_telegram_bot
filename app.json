@@ -1,0 +1,20 @@
+{
+  "name": "Truecaller-Smsbomber-Bot",
+  "description": "A Telegram bot for SMS bombing using Truecaller API.",
+  "repository": "https://github.com/telegrambots0/Truecaller-Smsbomber_telegram_bot",
+  "env": {
+    "TELEGRAM_BOT_TOKEN": {
+      "description": "Your Telegram bot token",
+      "required": true
+    },
+    "TRUECALLER_API_KEY": {
+      "description": "Your Truecaller API key",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
